@@ -1,0 +1,15 @@
+body{
+    width: max-content;
+    /* height: max-content; */
+    display: flex;
+    justify-content: center;
+    background-color: rgb(17, 15, 15);
+}
+
+P{
+    margin: 5px 5px;
+    font-weight: bold;
+    font-size: 13px;
+    font-style: italic;
+    color: rgb(154, 154, 155);
+}
